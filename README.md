@@ -1,4 +1,4 @@
-欢迎来到 南外手艺 Server ~
+欢迎来到 咸鱼帝国 Server ~
 
 wiki知识库正在完善喵，我们诚挚地邀请您对其做出补充 ~ >>[Github](https://github.com/Kyomotoi/SpiritWiki.github.io)
 
